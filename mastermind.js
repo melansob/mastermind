@@ -159,3 +159,6 @@ function formatFeedback(b,w) {
 	// return the new feedback array
 	return feedback;
 }
+function newFormatFeedback(){
+	var turnRecords = 4+remandier.length//NOT EXACT
+}
